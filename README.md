@@ -1,2 +1,3 @@
 # demo-repo-
-my 1st ripo in github
+This is my 1st github repo
+auther : nazmul hasan naim 
